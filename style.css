@@ -11,6 +11,7 @@ img {
 }
 
 .title {
+  padding: 10px;
   font-weight: bolder;
   font-size: 40px;
   background-color: rgb(255, 250, 244);
@@ -19,11 +20,14 @@ img {
 
 .description {
   font-style: italic;
-  font-size: 14px;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 10px;
 }
 
 .ingredients,
 .steps {
+  padding: 5px;
   font-weight: bolder;
   font-size: 30px;
   background-color: rgb(255, 250, 244);
