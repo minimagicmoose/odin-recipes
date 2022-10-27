@@ -1,0 +1,36 @@
+* {
+  background-color: rgb(34, 34, 34);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+img {
+  width: 700px;
+  height: auto;
+}
+
+.title {
+  font-weight: bolder;
+  font-size: 40px;
+  background-color: rgb(255, 250, 244);
+  color: black;
+}
+
+.description {
+  font-style: italic;
+  font-size: 14px;
+}
+
+.ingredients,
+.steps {
+  font-weight: bolder;
+  font-size: 30px;
+  background-color: rgb(255, 250, 244);
+  color: black;
+}
+
+.back-to-home {
+  font-size: 25px;
+  font-weight: bolder;
+}
